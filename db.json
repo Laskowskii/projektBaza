@@ -1,0 +1,17 @@
+[
+    {
+      "tytul":"przykladowyTytul 1",
+      "tresc":"przyklad tresci 1",
+      "data": "data jakas"
+    },
+    {
+      "tytul":"przykladowyTytul 2",
+      "tresc":"przyklad tresci 2",
+      "data": "data jakas"
+    },
+    {
+      "tytul":"przykladowyTytul 3",
+      "tresc":"przyklad tresci 3",
+      "data": "data jakas"
+    },
+]
